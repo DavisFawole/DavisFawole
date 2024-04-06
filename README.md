@@ -1,4 +1,7 @@
-### Hi there 👋
+👋 Hi, my name is Davis Fawole
+👀 I’m interested in Data Science, Big Data and Analytics 
+🌱 I’m currently enrolled in the Data science bootcamp by Hyperiondev partnered with the Department of Education.
+📫 You can reach me through my LinkedIn profile: https://www.linkedin.com/in/davis-fawole/
 
 <!--
 **DavisFawole/DavisFawole** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
